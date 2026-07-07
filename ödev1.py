@@ -19,6 +19,7 @@ class BankaHesabi:
 
     def __str__(self):
         return f"Hesap Sahibi: {self.isim} | Bakiye: {self.bakiye} TL"
+    
 
 
 if __name__ == "__main__":
